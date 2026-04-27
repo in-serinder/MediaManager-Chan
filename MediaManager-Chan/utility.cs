@@ -19,21 +19,27 @@ namespace MediaManager_Chan
         }
 
         //获取指定文件类型的列表
-        public static string[] GetFilesByExtension(string path, string filter)
+        public static string[] GetFilesByExtension(string path, string[] extensions)
         {
+            
             if (!Directory.Exists(path))
                 return new string[0];
 
-            // 自动补通配符 *
-            if (!filter.StartsWith("*."))
-                filter = "*." + filter.TrimStart('.');
-
-            string[] files = Directory.GetFiles(path, filter, SearchOption.TopDirectoryOnly);
-
             List<string> result = new List<string>();
-            foreach (var fullPath in files)
+
+            
+            foreach (string ext in extensions)
             {
-                result.Add(fullPath);
+                if (string.IsNullOrWhiteSpace(ext))
+                    continue;
+
+             
+                string filter = ext.TrimStart('.');
+                filter = "*." + filter;
+
+                
+                string[] files = Directory.GetFiles(path, filter, SearchOption.TopDirectoryOnly);
+                result.AddRange(files);
             }
 
             return result.ToArray();

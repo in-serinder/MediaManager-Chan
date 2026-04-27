@@ -157,7 +157,7 @@ namespace MediaManager_Chan
 
         private void loadVideos()
         {
-            allfiles = utility.SortFiles(utility.GetFilesByExtension(currentopen_path, "mp4"), sort_cb.Text.ToString());
+            allfiles = utility.SortFiles(utility.GetFilesByExtension(currentopen_path, ["mp4","mov","avi","mp3","flv","mkv"]), sort_cb.Text.ToString());
             view_lb.Text = "ÊýÁ¿:" + allfiles.Length;
             videolist_cb.Items.Clear();
             foreach (string file in allfiles)
