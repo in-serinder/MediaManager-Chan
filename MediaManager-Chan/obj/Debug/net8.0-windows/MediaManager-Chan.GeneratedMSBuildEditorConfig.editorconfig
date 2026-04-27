@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MediaManager_Chan
-build_property.ProjectDir = F:\SYSFILE\DeskTop\Misc.Git\CSharp_Exmaple\MediaManager-Chan\MediaManager-Chan\
+build_property.ProjectDir = F:\SYSFILE\DeskTop\Misc.Git\MediaManager-Chan\MediaManager-Chan\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

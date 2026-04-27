@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J6gEkrD81UE=",
+  "dgSpecHash": "eTDh90jVOJc=",
   "success": true,
-  "projectFilePath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
+  "projectFilePath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jyag\\.nuget\\packages\\medallionshell\\1.6.2\\medallionshell.1.6.2.nupkg.sha512",
     "C:\\Users\\jyag\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",

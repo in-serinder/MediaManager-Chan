@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj": {}
+    "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj": {}
   },
   "projects": {
-    "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj": {
+    "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
+        "projectUniqueName": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
         "projectName": "MediaManager-Chan",
-        "projectPath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
+        "projectPath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\MediaManager-Chan.csproj",
         "packagesPath": "C:\\Users\\jyag\\.nuget\\packages\\",
-        "outputPath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\CSharp_Exmaple\\MediaManager-Chan\\MediaManager-Chan\\obj\\",
+        "outputPath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jyag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaManager-Chan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed18e0deabd58dc92d8e38b635622fdcc7bb9cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b39194b85c53df82722ace21fc3957ac0ccbef")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaManager-Chan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaManager-Chan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
