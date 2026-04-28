@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|f:\\sysfile\\desktop\\misc.git\\mediamanager-chan\\mediamanager-chan\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|solutionrelative:mediamanager-chan\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|f:\\sysfile\\desktop\\misc.git\\mediamanager-chan\\mediamanager-chan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|solutionrelative:mediamanager-chan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|solutionrelative:mediamanager-chan\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|f:\\sysfile\\desktop\\misc.git\\mediamanager-chan\\mediamanager-chan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|f:\\sysfile\\desktop\\misc.git\\mediamanager-chan\\mediamanager-chan\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|solutionrelative:mediamanager-chan\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\mediamanager-chan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{82161D61-99BC-427B-B87C-5DC8D50D13ED}|MediaManager-Chan\\MediaManager-Chan.csproj|solutionrelative:mediamanager-chan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -41,22 +41,6 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs",
-              "RelativeDocumentMoniker": "MediaManager-Chan\\Form1.cs",
-              "ToolTip": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "MediaManager-Chan\\Form1.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T10:27:11.259Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MediaManager-Chan.csproj",
@@ -66,24 +50,25 @@
               "RelativeToolTip": "MediaManager-Chan\\MediaManager-Chan.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-27T07:56:30.884Z"
+              "WhenOpened": "2026-04-27T07:56:30.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "video.cs",
               "DocumentMoniker": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\video.cs",
               "RelativeDocumentMoniker": "MediaManager-Chan\\video.cs",
               "ToolTip": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\video.cs",
               "RelativeToolTip": "MediaManager-Chan\\video.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAHkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAABQwGkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T07:56:54.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "utility.cs",
               "DocumentMoniker": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\utility.cs",
               "RelativeDocumentMoniker": "MediaManager-Chan\\utility.cs",
@@ -96,16 +81,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs",
               "RelativeDocumentMoniker": "MediaManager-Chan\\Form1.cs",
               "ToolTip": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs",
               "RelativeToolTip": "MediaManager-Chan\\Form1.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJkAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAwJ8AAACOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T05:19:55.857Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs",
+              "RelativeDocumentMoniker": "MediaManager-Chan\\Form1.cs",
+              "ToolTip": "F:\\SYSFILE\\DeskTop\\Misc.Git\\MediaManager-Chan\\MediaManager-Chan\\Form1.cs [Design]",
+              "RelativeToolTip": "MediaManager-Chan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:27:11.259Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

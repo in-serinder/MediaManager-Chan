@@ -270,7 +270,7 @@
             Controls.Add(player_wmp);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
-            MinimizeBox = false;
+            MaximizeBox = false;
             Name = "Form1";
             Text = "MediaManager-Chan";
             Load += Form1_Load;
